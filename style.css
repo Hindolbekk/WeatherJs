@@ -1,0 +1,57 @@
+.airSun{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 600px;
+    background: yellow;
+    border-radius: 10px;
+}
+.airCloud{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 600px;
+    background:blue;
+    border-radius: 10px;
+}
+.airSnow{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 600px;
+    background:rgb(64, 179, 224);
+    border-radius: 10px;
+}
+.airRain{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 600px;
+    background:blue ;
+    border-radius: 10px;
+}
+.viloyatlar{
+    margin-top: 40px;
+}
+label{
+    color: rgb(105, 128, 0);
+}
+.card{
+    margin: 0 auto;
+    border-radius: 14px;
+    background: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+position: absolute;
+width: 52%;
+height:300px;
+left: 115px;
+right: 115px;
+top: 137px;
+bottom: 138px;
+}
+li{
+    list-style-type: none;
+}
